@@ -23,6 +23,7 @@ body{
     font-weight: 300;
     border-radius: 1rem;
     transition: background 0.5s, transform 0.5s;
+    margin: 1rem;
 }
 .certi-list div i{
     font-size: 5rem;
